@@ -678,7 +678,7 @@ li:last-child::before {
 	display: flex;
 	column-gap: 30px;
 
-	.wrapper__icon {
+	.footer__icon {
 		border: 1px solid var(--light-color);
 		width: 32px;
 		height: 32px;
